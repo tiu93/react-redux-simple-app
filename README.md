@@ -1,3 +1,11 @@
+# react-redux-simple-app
+node version: v14.17.5
+
+# Project includes:
+- Auth block
+- Routes
+- Material-ui
+- Eslint + prettier settings
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
