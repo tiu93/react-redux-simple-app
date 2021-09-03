@@ -1,4 +1,4 @@
-# react-redux-simple-app
+# react-redux-simple-auth
 node version: v14.17.5
 
 It is based on `create-react-app`
