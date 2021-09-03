@@ -2,10 +2,16 @@
 node version: v14.17.5
 
 # Project includes:
-- Auth block
-- Routes
+- Auth page (with Formik)
+- Main page
+- Layout
+- Routes (react-router-dom, react-router)
 - Material-ui
-- Eslint + prettier settings
+- Eslint, prettier, jsconfig settings
+
+# Note
+Use username `test` and password `test1` for test
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
