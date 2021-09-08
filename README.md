@@ -15,7 +15,7 @@ It is based on `create-react-app`
 Use username `test` and password `test1` for test
 
 # Demo
-Wath the [Demo](https://codesandbox.io/s/react-redux-simple-auth-mzv0u?file=/src/index.js) on sanbox
+Watch the [Demo](https://codesandbox.io/s/react-redux-simple-auth-mzv0u?file=/src/index.js) on sanbox
 
 # Available Scripts
 In the project directory, you can run:
